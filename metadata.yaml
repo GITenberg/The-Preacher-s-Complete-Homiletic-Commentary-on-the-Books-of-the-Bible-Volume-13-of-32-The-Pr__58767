@@ -1,11 +1,16 @@
 _repo: The-Preacher-s-Complete-Homiletic-Commentary-on-the-Books-of-the-Bible-Volume-13-of-32-The-Pr__58767
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harris, W., Rev.
     gutenberg_agent_id: '49752'
     url: http://www.gutenberg.org/2009/agents/49752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58767#The-Preacher-s-Complete-Homiletic-Commentary-on-the-Books-of-the-Bible-Volume-13-of-32-The-Pr_
 gutenberg_issued: '2019-01-25'
 gutenberg_type: Text
 identifiers:
